@@ -1,0 +1,5 @@
+ctype_upper
+strtr
+str_replace
+str_word_count
+explode

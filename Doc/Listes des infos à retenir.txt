@@ -1,0 +1,43 @@
+
+Modis à faire :
+- Ajouter la classe d'un eleve  x
+- Ajouter une activité
+- Activité lié au groupe
+
+x
+NumProf
+NomProf
+PrenomProf
+MDPProf
+
+x
+NumEleve
+NomEleve
+PrenomEleve
+MDPEleve
+
+x
+NotePresentation
+CompletienRate(temps)/5
+Quality(graphics, clearness, ...)/5
+TechnomlogicalEnglish/5
+Performer(anglais plus general)/5
+obsevationsNotes
+
+x
+Classe
+NombreClasse
+Niveau
+
+x
+Activite
+num
+libellé
+
+x
+Prestation
+sujet
+
+Groupe de passage :
+num
+eleve²

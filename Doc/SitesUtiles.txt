@@ -1,0 +1,8 @@
+Hash mdp :
+https://openclassrooms.com/courses/securiser-les-mots-de-passe-des-utilisateurs-avec-php
+
+Upload fichier :
+https://openclassrooms.com/courses/upload-de-fichiers-par-formulaire
+
+ecriture csv :
+https://jeanbaptistemarie.com/notes/code/php/creer-un-fichier-csv-avec-php.html
